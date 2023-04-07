@@ -11,6 +11,8 @@
 
 y = Synth(\sineSynthWithLFO);
 
+y.release;
+
 y = nil;
 
    (
